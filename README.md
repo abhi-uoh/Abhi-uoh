@@ -32,12 +32,15 @@
 </br>
 </br>
 
-- 🔭 I’m currently working on ...Python
-- 🌱 I’m currently learning ...DevOps & AWS
-- 👯 I’m looking to collaborate on ...DevOps
-- 🤔 I’m looking for help with ...Placement
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[Website](https://members.byticians.com/)
-- 😄 Pronouns: ...He/His
-- ⚡ Fun fact: ...Enigmatic!
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning DevOps & AWS
+- 👯 I’m looking to collaborate on DevOps
+- 🤔 I’m looking for help with Placement
+- 💬 Ask me about Anything
+- 📫 How to reach me: [Website](https://members.byticians.com/)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Enigmatic!
+
+
+[![Twitter: AbhinavGautam_](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/AbhinavGautam_)
 
