@@ -14,6 +14,9 @@
 <a href="https://t.me/abhi_uoh">
   <img align="left" alt="Abhinav's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+<a href="https://api.whatsapp.com/send?phone=918678042920&text=&source=&data=&app_absent=">
+  <img align="left" alt="Abhinav's Whatsaap" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
 <a href="https://www.instagram.com/itsmeabhii__">
   <img align="left" alt="Abhinav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -28,7 +31,6 @@
 </a>
 </br>
 </br>
-
 
 - 🔭 I’m currently working on ...Python
 - 🌱 I’m currently learning ...DevOps & AWS
