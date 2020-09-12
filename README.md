@@ -41,7 +41,12 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Enigmatic!
 
+
+[![Twitter: AbhinavGautam_](https://img.shields.io/twitter/follow/AbhinavGautam_?style=social)](https://twitter.com/AbhinavGautam_)
+[![Linkedin: abhinav-gautam25](https://img.shields.io/badge/-abhinav-gautam25-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav-gautam25/)](https://www.linkedin.com/in/abhinav-gautam25/)
+
 **Languages and Tools:**  
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -66,4 +71,3 @@
 </a>
 
 
-[![Twitter: AbhinavGautam_](https://img.shields.io/twitter/follow/AbhinavGautam_?style=social)](https://twitter.com/AbhinavGautam_)
