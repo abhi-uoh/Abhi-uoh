@@ -42,5 +42,5 @@
 - ⚡ Fun fact: Enigmatic!
 
 
-[![Twitter: AbhinavGautam_](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/AbhinavGautam_)
+[![Twitter: AbhinavGautam_](https://img.shields.io/twitter/follow/AbhinavGautam_?style=social)]
 
