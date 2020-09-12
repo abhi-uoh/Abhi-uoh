@@ -43,7 +43,8 @@
 
 
 [![Twitter: AbhinavGautam_](https://img.shields.io/twitter/follow/AbhinavGautam_?style=social)](https://twitter.com/AbhinavGautam_)
-[![Linkedin: abhinav-gautam25](https://img.shields.io/badge/-abhinav-gautam25-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav-gautam25/)](https://www.linkedin.com/in/abhinav-gautam25/)
+[![Linkedin: abhinav-gautam25](https://img.shields.io/badge/abhinav-gautam25-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav-gautam25/)](https://www.linkedin.com/in/abhinav-gautam25/)
+[![GitHub abhi-uoh](https://img.shields.io/github/followers/abhi-uoh?label=follow&style=social)](https://github.com/abhi-uoh)
 
 **Languages and Tools:**  
 
