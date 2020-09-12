@@ -23,6 +23,9 @@
 <a href="https://www.quora.com/profile/Abhinav-Gautam-62">
   <img align="left" alt="Abhinav's quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
 </a>
+<a href="https://medium.com/@abhinavgautam25">
+  <img align="left" alt="Abhinav's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 </br>
 </br>
 
@@ -32,7 +35,7 @@
 - 👯 I’m looking to collaborate on ...DevOps
 - 🤔 I’m looking for help with ...Placement
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[website](https://members.byticians.com/)
+- 📫 How to reach me: ...[Website](https://members.byticians.com/)
 - 😄 Pronouns: ...He/His
 - ⚡ Fun fact: ...Enigmatic!
--->
+
