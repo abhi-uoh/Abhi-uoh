@@ -32,10 +32,9 @@
 </br>
 </br>
 
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning DevOps & AWS
-- 👯 I’m looking to collaborate on DevOps
-- 🤔 I’m looking for help with Placement
+- 🔭 I’m currently working on MicroServices
+- 🌱 I’m currently learning Spring and Spring-Boot
+- 👯 I’m looking to collaborate on Spring-Boot
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Website](https://members.byticians.com/)
 - 😄 Pronouns: He/His
