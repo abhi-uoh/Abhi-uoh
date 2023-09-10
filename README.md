@@ -174,15 +174,15 @@ Connect with me on:
 <a href="https://github.com/abhi-uoh&">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi-uoh&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-
+<!--
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-uoh&repo=Microservices&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a>-->
 
-
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
+<!--
+<a href="https://github.com/abhi-uoh/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-uoh&repo=MovieDB-API&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>    -->
 
 ##  💌 Let's connect and build something great together! 🚀
 
