@@ -15,7 +15,7 @@
 <a href="https://api.whatsapp.com/send?phone=918678042920&text=&source=&data=&app_absent=">
   <img align="left" alt="Abhinav's Whatsaap" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<a href="[https://www.instagram.com/chhichhora___/?hl=en">
+<a href="[https://www.instagram.com/chhichhora___">
   <img align="left" alt="Abhinav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.quora.com/profile/Abhinav-Gautam-62">
