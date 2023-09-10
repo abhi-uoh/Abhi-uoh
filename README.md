@@ -35,13 +35,18 @@ Connect with me on:
 </a>
 </br>
 </br>
-
+<!--
 - 🔭 I’m currently working on MicroServices
 - 🌱 I’m currently learning Spring and Spring-Boot
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Website](https://members.byticians.com/)
-- ⚡ Fun fact: Enigmatic!
+- ⚡ Fun fact: Enigmatic! -->
 
+- 🔭 I'm currently working on MicroServices.
+- 🌱 I'm constantly learning and improving, with a focus on Spring and Spring-Boot.
+- 💬 Feel free to reach out to me for discussions on anything related to software development or technology.
+- 📫 You can contact me through my Social Channels.
+- ⚡ Fun Fact: I love to explore the enigmatic world of code and technology, always discovering something new!
 
 
 
