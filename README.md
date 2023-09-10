@@ -2,9 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-uoh&label=Views&color=blue&style=plastic" alt="abhi-uoh" /> </p>
 
-<a href="https://twitter.com/AbhinavGautam_">
-  <img align="left" alt="Abhinav's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+
 <a href="https://www.linkedin.com/in/abhinav-gautam25">
   <img align="left" alt="Abhinav's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -17,11 +15,8 @@
 <a href="https://api.whatsapp.com/send?phone=918678042920&text=&source=&data=&app_absent=">
   <img align="left" alt="Abhinav's Whatsaap" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<a href="https://www.instagram.com/itsmeabhii__">
+<a href="[https://www.instagram.com/chhichhora___/?hl=en">
   <img align="left" alt="Abhinav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/abhinav.gautam.56232">
-  <img align="left" alt="Abhinav's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.quora.com/profile/Abhinav-Gautam-62">
   <img align="left" alt="Abhinav's quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
@@ -39,7 +34,6 @@
 - ⚡ Fun fact: Enigmatic!
 
 
-[![Twitter: AbhinavGautam_](https://img.shields.io/twitter/follow/AbhinavGautam_?style=social)](https://twitter.com/AbhinavGautam_)
 [![Linkedin: abhinav-gautam25](https://img.shields.io/badge/abhinav-gautam25-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav-gautam25/)](https://www.linkedin.com/in/abhinav-gautam25/)
 [![GitHub abhi-uoh](https://img.shields.io/github/followers/abhi-uoh?label=follow&style=social)](https://github.com/abhi-uoh)
 
