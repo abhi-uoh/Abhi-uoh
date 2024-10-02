@@ -7,7 +7,7 @@ I'm Abhinav Gautam , a passionate Software Developer based in Hyderabad, India �
 
 ## About Me 🚀
 
-I'm on a journey to turn innovative ideas into scalable solutions. With 2+ years of experience in software development, I specialize in building robust REST APIs and web applications, with a focus on the Fintech industry. 
+I'm on a journey to turn innovative ideas into scalable solutions. With 3+ years of experience in software development, I specialize in building robust REST APIs and web applications, with a focus on the Fintech industry. 
 
 🌟 I'm committed to excellence and delivering high-quality, results-driven solutions. 🌟
 
